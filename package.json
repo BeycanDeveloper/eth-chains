@@ -1,0 +1,34 @@
+{
+  "namespace": "beycandeveloper",
+  "name": "@beycandeveloper/eth-chains",
+  "version": "0.1.0",
+  "description": "Ready node library for transacting on many Ethereum based networks.",
+  "files": [
+    "src"
+  ],
+  "main": "src/eth-chains.js",
+  "types": "index.d.ts",
+  "typings": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeycanDeveloper/eth-chains.git"
+  },
+  "keywords": [
+    "Blockchain",
+    "Ethereum",
+    "Ethereum based networks",
+    "Cryptocurrency"
+  ],
+  "author": "Halil Beycan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BeycanDeveloper/eth-chains/issues"
+  },
+  "homepage": "https://github.com/BeycanDeveloper/eth-chains",
+  "dependencies": {
+    "abi-decoder": "^2.4.0",
+    "bignumber.js": "^9.1.1",
+    "eth-based-networks": "^0.1.1",
+    "web3": "^1.8.1"
+  }
+}
